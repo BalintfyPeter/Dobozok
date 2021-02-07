@@ -1,0 +1,42 @@
+
+div {
+    margin-top: 6mm;
+    margin-bottom: 6mm;
+    border: 5pt;
+    border-color: burlywood;
+    border-style: dotted;
+}
+p {
+    text-align: justify;
+    background-color: cornsilk;
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+    margin-left: 3mm;
+    margin-right: 3mm;
+    border-left: 6mm;
+    border-right: 6mm;
+    text-indent: 1,5cm;
+}
+#bal {
+    width: 70%;
+}
+#jobb {
+    width: 80%;
+    text-align: center;
+}
+.piros {
+    border-right: 3mm double darkred;
+    text-transform: lowercase;
+}
+.kék {
+    border-bottom: 1cm;
+    border-left: 1mm dashed blueviolet;
+    border-bottom: 2mm dashed blue;
+}
+.b {
+    color: deepskyblue;
+}
+#r {
+    color: crimson;
+    
+}
